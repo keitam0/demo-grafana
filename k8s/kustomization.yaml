@@ -1,3 +1,4 @@
 bases:
 - grafana
+- prometheus
 - exporter
